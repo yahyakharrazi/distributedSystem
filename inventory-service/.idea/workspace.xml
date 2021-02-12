@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39284fb6-3bc0-4ebd-aac0-bc4d056c2d38" name="Default Changelist" comment="" />
+    <list default="true" id="b60c4d56-6aa8-4e64-ae38-c56b83193846" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-service/src/main/java/com/sid/clientservice/ClientServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client-service/src/main/java/com/sid/clientservice/ClientServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../client-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-service/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/frontEBank" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/frontEBank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,14 +25,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1nCqHUel2by7knpfaKoNJGR2knz" />
+  <component name="ProjectId" id="1nCsOHqlMFSsqVzaybOOM1AUEOs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,23 +49,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client-service" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="client-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sid.customerservice.CustomerServiceApplication" />
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sid.accountservice.AccountServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,14 +62,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="39284fb6-3bc0-4ebd-aac0-bc4d056c2d38" name="Default Changelist" comment="" />
-      <created>1610904335109</created>
+      <changelist id="b60c4d56-6aa8-4e64-ae38-c56b83193846" name="Default Changelist" comment="" />
+      <created>1610905375572</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610904335109</updated>
-      <workItem from="1610904336507" duration="3157000" />
-      <workItem from="1611597484430" duration="4595000" />
-      <workItem from="1613121092787" duration="432000" />
+      <updated>1610905375572</updated>
+      <workItem from="1610905376740" duration="1340000" />
+      <workItem from="1611047332355" duration="18000" />
+      <workItem from="1611597469394" duration="3902000" />
+      <workItem from="1613121096123" duration="2970000" />
+      <workItem from="1613162379907" duration="600000" />
     </task>
     <servers />
   </component>
